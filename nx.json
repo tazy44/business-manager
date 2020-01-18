@@ -1,5 +1,5 @@
 {
-  "npmScope": "business-manager",
+  "npmScope": "manager",
   "implicitDependencies": {
     "angular.json": "*",
     "package.json": {
@@ -17,6 +17,9 @@
     "dashboard-e2e": {
       "tags": [],
       "implicitDependencies": ["dashboard"]
+    },
+    "material": {
+      "tags": []
     }
   }
 }
